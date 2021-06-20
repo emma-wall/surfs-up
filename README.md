@@ -23,4 +23,4 @@ The average temperatures in June are only slightly higher than in December, ther
 
 ![Screen Shot 2021-06-20 at 1 39 49 PM](https://user-images.githubusercontent.com/80648379/122683430-1a9e1280-d1cd-11eb-85b3-463d8a95d0cb.png) ![Screen Shot 2021-06-20 at 1 41 49 PM](https://user-images.githubusercontent.com/80648379/122683472-6486f880-d1cd-11eb-87de-0a39486c8360.png)
 
-The average precipitation 0.14 for June and 0.22 for December. 
+The average precipitation 0.14 for June and 0.22 for December. Looking at the interquartile stats, it does not look like rainfall in Decemeber differs that much from the rainfall in June and would not have a negative impact on the Surf and Ice Cream Shop
