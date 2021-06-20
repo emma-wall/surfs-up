@@ -17,7 +17,8 @@ This analysis uses jupyter notebooks via Python to read and analyze Hawaii weath
 ## Summary 
 The average temperatures in June are only slightly higher than in December, therefore I do not think it would impact the business that much. I ran queries to filter the precipitation in both June and December. 
 
-![Screen Shot 2021-06-20 at 1 39 49 PM](https://user-images.githubusercontent.com/80648379/122683430-1a9e1280-d1cd-11eb-85b3-463d8a95d0cb.png) ![Screen Shot 2021-06-17 at 11 42 58 PM](https://user-images.githubusercontent.com/80648379/122683459-52a55580-d1cd-11eb-9dc1-d89687faa100.png)
+![Screen Shot 2021-06-20 at 1 39 49 PM](https://user-images.githubusercontent.com/80648379/122683430-1a9e1280-d1cd-11eb-85b3-463d8a95d0cb.png) ![Screen Shot 2021-06-20 at 1 41 49 PM](https://user-images.githubusercontent.com/80648379/122683472-6486f880-d1cd-11eb-87de-0a39486c8360.png)
+
 
 
 
