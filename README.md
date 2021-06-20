@@ -13,6 +13,8 @@ This analysis uses jupyter notebooks via Python to read and analyze Hawaii weath
     - The December average temp is only about 4 degrees cooler than in June with the Dec average temp at 71° and June at 75°.
 - Interquartile Range
     - Although the min in December is 56°, it appears to be an outlier from the below box. The middle 50% of the data lies between 69° and 74° in December. 
+    ![Screen Shot 2021-06-20 at 1 39 37 PM](https://user-images.githubusercontent.com/80648379/122683491-82545d80-d1cd-11eb-832f-d086afb516a7.png)
+
 
 ## Summary 
 The average temperatures in June are only slightly higher than in December, therefore I do not think it would impact the business that much. I ran queries to filter the precipitation in both June and December. 
