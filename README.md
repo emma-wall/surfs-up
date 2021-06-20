@@ -5,9 +5,7 @@ This analysis uses jupyter notebooks via Python to read and analyze Hawaii weath
 
 ## Results 
 
-![Screen Shot 2021-06-20 at 9 42 33 AM](https://user-images.githubusercontent.com/80648379/122683107-36a0b480-d1cb-11eb-9a25-f68877241c64.png)
-
-![Screen Shot 2021-06-20 at 9 43 00 AM](https://user-images.githubusercontent.com/80648379/122683110-3accd200-d1cb-11eb-8763-7c91ca23bcec.png)
+![Screen Shot 2021-06-20 at 9 42 33 AM](https://user-images.githubusercontent.com/80648379/122683107-36a0b480-d1cb-11eb-9a25-f68877241c64.png) ![Screen Shot 2021-06-20 at 9 43 00 AM](https://user-images.githubusercontent.com/80648379/122683110-3accd200-d1cb-11eb-8763-7c91ca23bcec.png)
 
 
 - Average Temperatures 
